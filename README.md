@@ -1,4 +1,4 @@
-# 📜 Certifications
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/be731aac-9122-4ea9-987f-add6bb1b6254" /># 📜 Certifications
 
 A collection of my verified certifications and training achievements in programming, databases, and artificial intelligence.
 
@@ -7,10 +7,9 @@ A collection of my verified certifications and training achievements in programm
 ## 🐍 Python & Programming
 ### ✔ Python (Basic) — HackerRank
 - **Issuer:** HackerRank  
-- **Issued:** Dec 2025  
+- **Issued:** oct 2025  
 - **Type:** Skill certification  
-🔗 [View Certificate](https://www.hackerrank.com/certificates/PASTE_LINK_HERE)  
-🖼️ ![Python Basic Certificate](python_basic.png)
+🔗 [View Certificate](https://www.hackerrank.com/certificates/3a918df52a89)  
 
 ---
 
@@ -19,8 +18,7 @@ A collection of my verified certifications and training achievements in programm
 - **Issuer:** HackerRank  
 - **Issued:** Dec 2025  
 - **Type:** Skill certification  
-🔗 [View Certificate](https://www.hackerrank.com/certificates/PASTE_LINK_HERE)  
-🖼️ ![SQL Basic Certificate](sql_basic.png)
+🔗 [View Certificate](https://www.hackerrank.com/certificates/c8dbd9db394f)  
 
 ---
 
