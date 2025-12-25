@@ -27,8 +27,6 @@ A collection of my verified certifications and training achievements in programm
 - **Issuer:** BoltIoT  
 - **Modules Covered:** Python basics, AI, ChatGPT, OpenAI API, Web development (HTML, CSS, JS), Projects  
 - **Duration:** 15 days  
-🔗 *Upload link or attach PDF/image once uploaded*  
-🖼️ ![AI Training Certificate]
 
 ---
 
