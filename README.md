@@ -1,4 +1,4 @@
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/be731aac-9122-4ea9-987f-add6bb1b6254" /># 📜 Certifications
+# 📜 Certifications
 
 A collection of my verified certifications and training achievements in programming, databases, and artificial intelligence.
 
